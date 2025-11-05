@@ -1,0 +1,2 @@
+- Visualized regional sales and profit metrics.
+- Used PivotTables and Charts for interactivity.
