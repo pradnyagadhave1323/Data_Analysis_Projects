@@ -1,3 +1,4 @@
+# Vrinda Store Dashboard
 **Project Description**
 Vrinda Store Report 2025 is an interactive Excel dashboard designed to analyze sales performance, customer demographics, and order insights across multiple e-commerce platforms. The dashboard helps business owners visualize trends, track top-performing regions, and make data-driven decisions.
 It consolidates data from multiple sources and presents it in a clean, visual, and easily filterable format using pivot tables, slicers, and charts.
